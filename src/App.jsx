@@ -7,7 +7,10 @@ function App() {
   return (
     <>
       <NavBar />
-      <Banner />
+      <main>
+        <Banner />
+      </main>
+      <div className="h-screen"></div>
     </>
   )
 }
