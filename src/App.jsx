@@ -12,6 +12,7 @@ function App() {
       <main>
         <Banner />
         <TextSlider />
+        <FutureEvents />
       </main>
       <div className="h-screen"></div>
     </>
