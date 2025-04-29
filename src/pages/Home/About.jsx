@@ -1,7 +1,7 @@
 import img1 from "../../assets/images/placeholder 1.png"
 import img2 from "../../assets/images/placeholder 2.png"
 import img3 from "../../assets/images/placeholder 3.png"
-import tick from "../../assets/vector/check mark icon.svg"
+import Tick from "../../assets/vector/check mark icon.svg?react"
 
 function About() {
     return (
@@ -21,19 +21,19 @@ function About() {
 
                     <dl className="py-6 xl:py-10">
                         <div className="inline-flex gap-5">
-                            <img src={tick} alt="tick mark icon" />
+                            <Tick className="text-[#7546FF]" />
                             <dt className="text-lg">Expert keynote speakers</dt>
                         </div>
                         <dd className="ml-10 text-gray-300 pt-2 pb-5 max-w-[43ch]">Hear from thought leaders and industry pioneers as they share their expertise, trends, and strategies to keep you ahead of the curve.</dd>
 
                         <div className="inline-flex gap-5">
-                            <img src={tick} alt="tick mark icon" />
+                            <Tick className="text-[#7546FF]" />
                             <dt className="text-lg">Education Programs</dt>
                         </div>
                         <dd className="ml-10 text-gray-300 pt-2 pb-5 max-w-[43ch]">Engage in interactive sessions, workshops, and masterclasses designed to expand your skills and knowledge in your field.</dd>
 
                         <div className="inline-flex gap-5">
-                            <img src={tick} alt="tick mark icon" />
+                            <Tick className="text-[#7546FF]" />
                             <dt className="text-lg">Notes & Highlights</dt>
                         </div>
                         <dd className="ml-10 text-gray-300 pt-2 pb-5 max-w-[43ch]">Stay informed with key takeaways, session summaries, and exclusive insights to ensure you never miss a moment of valuable content.</dd>

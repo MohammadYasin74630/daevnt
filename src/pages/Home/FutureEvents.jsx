@@ -17,11 +17,11 @@ function FutureEvents() {
                         </div>
 
                         <div className="text-center w-max ml-auto">
-                            <time datetime="2025-03-25"> <span className="text-7xl font-medium">25</span> <br /> March 2025</time>
+                            <time dateTime="2025-03-25"> <span className="text-7xl font-medium">25</span> <br /> March 2025</time>
                         </div>
 
                         <div className="ml-auto">
-                            <time datetime="2025-03-25 10:00" >10:00 AM</time> - <time datetime="2025-03-25 12:00">12:00 PM</time>
+                            <time dateTime="2025-03-25 10:00" >10:00 AM</time> - <time dateTime="2025-03-25 12:00">12:00 PM</time>
                         </div>
 
                         <div className="ml-auto">
@@ -38,11 +38,11 @@ function FutureEvents() {
                         </div>
 
                         <div className="text-center w-max ml-auto">
-                            <time datetime="2025-03-27"> <span className="text-7xl font-medium">27</span> <br /> March 2025</time>
+                            <time dateTime="2025-03-27"> <span className="text-7xl font-medium">27</span> <br /> March 2025</time>
                         </div>
 
                         <div className="ml-auto">
-                            <time datetime="2025-03-27 10:00" >10:00 AM</time> - <time datetime="2025-03-27 12:00">12:00 PM</time>
+                            <time dateTime="2025-03-27 10:00" >10:00 AM</time> - <time dateTime="2025-03-27 12:00">12:00 PM</time>
                         </div>
 
                         <div className="ml-auto">
@@ -59,11 +59,11 @@ function FutureEvents() {
                         </div>
 
                         <div className="text-center w-max ml-auto">
-                            <time datetime="2025-03-15"> <span className="text-7xl font-medium">15</span> <br /> March 2025</time>
+                            <time dateTime="2025-03-15"> <span className="text-7xl font-medium">15</span> <br /> March 2025</time>
                         </div>
 
                         <div className="ml-auto">
-                            <time datetime="2025-03-15 10:00" >10:00 AM</time> - <time datetime="2025-03-15 12:00">12:00 PM</time>
+                            <time dateTime="2025-03-15 10:00" >10:00 AM</time> - <time dateTime="2025-03-15 12:00">12:00 PM</time>
                         </div>
 
                         <div className="ml-auto">

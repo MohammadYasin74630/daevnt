@@ -11,7 +11,7 @@ function Banner() {
 
         <div className="absolute w-10/12 left-1/2 -translate-x-1/2 bottom-10 h-2/5 md:h-2/4 p-4 max-w-7xl">
           <div className="relative h-full">
-            <h2 className="">Start Registration:</h2>
+            <h2 >Start Registration:</h2>
             <time className="text-xl md:text-2xl lg:text-3xl xl:text-4xl font-medium" dateTime='2025-03-25'>25 March 2025</time>
 
             <div className="md:flex justify-between absolute bottom-0 w-full">
