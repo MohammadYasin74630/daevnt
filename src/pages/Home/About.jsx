@@ -39,7 +39,7 @@ function About() {
                         <dd className="ml-10 text-gray-300 pt-2 pb-5 max-w-[43ch]">Stay informed with key takeaways, session summaries, and exclusive insights to ensure you never miss a moment of valuable content.</dd>
                     </dl>
 
-                    <p className="text-2xl font-medium max-w-[30ch]">Join us as we redefine conference for the 21st century!</p>
+                    <p className="text-lg min-[350px]:text-2xl font-medium max-w-[30ch]">Join us as we redefine conference for the 21st century!</p>
                 </div>
             </div>
         </>

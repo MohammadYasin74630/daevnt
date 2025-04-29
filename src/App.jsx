@@ -1,6 +1,7 @@
 import NavBar from "./components/NavBar"
 import About from "./pages/Home/About"
 import Banner from "./pages/Home/Banner"
+import Brands from "./pages/Home/Brands"
 import FutureEvents from "./pages/Home/FutureEvents"
 import TextSlider from "./pages/Home/TextSlider"
 
@@ -15,6 +16,7 @@ function App() {
         <TextSlider />
         <FutureEvents />
         <About />
+        <Brands />
       </main>
       <div className="h-screen"></div>
     </>
