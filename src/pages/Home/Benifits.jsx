@@ -26,7 +26,7 @@ const AccordionItem = ({ header, ...rest }) => (
 
 function Benifits() {
     return (
-        <div className="bg-[#fefefe] text-black py-20">
+        <div className="bg-[#fefefe] text-black py-20 xl:pt-32">
 
             <div className='w-10/12 max-w-7xl mx-auto grid lg:grid-cols-2 items-center justify-between gap-8 min-h-[570px]'>
 
