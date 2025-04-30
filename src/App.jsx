@@ -1,5 +1,6 @@
 import Footer from "./components/Footer"
 import NavBar from "./components/NavBar"
+import ScrollButton from "./components/ScrollButton"
 import About from "./pages/Home/About"
 import Banner from "./pages/Home/Banner"
 import Benifits from "./pages/Home/Benifits"
@@ -26,7 +27,7 @@ function App() {
         <Blogs />
       </main>
       <Footer />
-      <div className="h-screen"></div>
+      <ScrollButton />
     </>
   )
 }
